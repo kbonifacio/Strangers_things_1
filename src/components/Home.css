@@ -1,0 +1,10 @@
+.homeLogoContainer {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.homeLogo {
+    width: 700px;
+    height: 350px;
+}

@@ -1,0 +1,23 @@
+
+.sentPostTitle {
+    background-color:rgb(26, 94, 123);
+    width: 38vw;
+    height: 20px;
+    padding-left: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.sentPostContent {
+    background-color: white;
+    color: rgb(89, 87, 87);
+    width: 38vw;
+    padding-left: 5px;
+    margin-bottom: 10px;;
+}
+.sendMessageButton {
+    color:white;
+    background-color: rgb(103, 147, 213);
+}
+.fromUser {
+    padding-right: 5px;
+}

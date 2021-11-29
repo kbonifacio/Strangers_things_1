@@ -1,0 +1,18 @@
+form {
+    color: white;
+}
+input {
+    width: 40vw;
+    margin-bottom: 10px;
+}
+.thingyFormContainer {
+    display: flex;
+    justify-content: center;
+}
+.checkboxInput {
+    width: 18px;
+}
+.thingySubmit {
+    display: flex;
+    justify-content: center;
+}

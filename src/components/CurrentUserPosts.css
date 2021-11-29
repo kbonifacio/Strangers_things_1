@@ -1,0 +1,23 @@
+.currentUserPostTitle {
+    background-color: slateblue;
+    margin-top: 10px;
+    padding-left: 5px;
+}
+
+.currentUserPostDescription {
+    background-color: white;
+    color: black;
+    padding-left: 5px;
+}
+
+.postButtons {
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+button {
+    height:30px;
+    width:40px;
+}

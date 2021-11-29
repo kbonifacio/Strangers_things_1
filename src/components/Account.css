@@ -1,0 +1,31 @@
+.actionHeader {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 5em;
+    margin-bottom: 10px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.formContainer {
+    display: flex;
+    justify-content: center;
+}
+.buttonContainer {
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+}
+div.formContainer input {
+    padding-top: 5px;
+    margin-top: 5px;
+    width: 300px;
+    height: 15px;
+}
+.loginImage {
+    display: flex;
+    justify-content: center;
+}
