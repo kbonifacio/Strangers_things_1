@@ -23,7 +23,7 @@ const handleSubmit = async (event) => {
             .then(result => {
                 console.log(result)
                 
-            }).finally(navigate('/posts'))
+            }).finally(navigate('/account'))
             .catch(console.error);
 } 
 return <>
